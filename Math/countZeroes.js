@@ -17,4 +17,9 @@ function countZeroes(nums) {
     return counter;
 }
 
-console.log(countZeroes([1, 2, 3]));
+console.log(2000 * 15000);
+
+let x = Math.pow(10, 2000);
+let y = Math.pow(x, 15000);
+
+console.log(y)
